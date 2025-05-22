@@ -1,3 +1,6 @@
+This is a mirror of VCNS, because the site distributing it isn't maintained anymore.
+It is possible any of the links following are dead.
+
 Vcsn
 ====
 
